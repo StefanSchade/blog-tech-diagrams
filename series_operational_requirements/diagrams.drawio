@@ -1,0 +1,36 @@
+<mxfile host="app.diagrams.net" modified="2022-04-10T10:57:30.653Z" agent="5.0 (Linux; Android 11; SM-T860) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.88 Safari/537.36" etag="nSu5WBNt19VQ3NrT2X3T" version="17.4.1" type="github" pages="2">
+  <diagram id="O2PlDPVQ_yYuAJ14_lku" name="Scen1+2">
+    <mxGraphModel dx="582" dy="366" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="Kq8sPYh8Am4Pb1MEhLlP-5" value="Environment&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;shadow=0;fillColor=#FFB366;strokeColor=default;gradientColor=none;" vertex="1" parent="1">
+          <mxGeometry x="200" y="80" width="260" height="260" as="geometry" />
+        </mxCell>
+        <mxCell id="Kq8sPYh8Am4Pb1MEhLlP-4" value="Integration Layer&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;shadow=0;fillColor=#FFCC99;strokeColor=default;align=center;" vertex="1" parent="1">
+          <mxGeometry x="230" y="110" width="200" height="200" as="geometry" />
+        </mxCell>
+        <mxCell id="Kq8sPYh8Am4Pb1MEhLlP-1" value="Business&lt;br&gt;Logic&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#FFE6CC;strokeColor=#36393d;direction=south;" vertex="1" parent="1">
+          <mxGeometry x="270" y="150" width="120" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="g-dhPrcTP0AiWe-FvWY7-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=0;exitDx=0;exitDy=0;entryX=1;entryY=0.25;entryDx=0;entryDy=0;fontFamily=Helvetica;fontSize=12;fontColor=default;" edge="1" parent="1" source="g-dhPrcTP0AiWe-FvWY7-2" target="g-dhPrcTP0AiWe-FvWY7-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="g-dhPrcTP0AiWe-FvWY7-7" value="&lt;br&gt;&lt;br&gt;&lt;br&gt;Scenario 2" style="whiteSpace=wrap;html=1;aspect=fixed;shadow=0;fontFamily=Helvetica;fontSize=12;fontColor=default;strokeColor=default;fillColor=#99CCFF;direction=south;" vertex="1" parent="1">
+          <mxGeometry x="290" y="250" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="g-dhPrcTP0AiWe-FvWY7-2" value="App Scope&lt;br&gt;Scenario 1" style="whiteSpace=wrap;html=1;aspect=fixed;shadow=0;fontFamily=Helvetica;fontSize=12;fontColor=default;strokeColor=default;fillColor=#CCE5FF;direction=south;" vertex="1" parent="1">
+          <mxGeometry x="290" y="220" width="80" height="80" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="2IEK_9fhoZ_jJccboW54" name="Page-2">
+    <mxGraphModel dx="640" dy="403" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
