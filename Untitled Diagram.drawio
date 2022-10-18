@@ -1,1 +1,40 @@
-<mxfile host="app.diagrams.net" modified="2022-10-18T19:14:46.638Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36" version="20.4.1" etag="Uo7krXbBtq8IUEPqiBL1" type="github"><diagram id="kK66sWiUQygt93dMwoq2">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2022-10-18T19:27:45.004Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36" etag="0oYrc-q7iLqquLp-8wZh" version="20.4.1" type="github">
+  <diagram id="kK66sWiUQygt93dMwoq2" name="Page-1">
+    <mxGraphModel dx="1718" dy="962" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="n6TsHSlyv4_bZTNJ95n--6" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="600" y="350" width="546.94" height="230" as="geometry" />
+        </mxCell>
+        <mxCell id="n6TsHSlyv4_bZTNJ95n--7" value="" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="n6TsHSlyv4_bZTNJ95n--6">
+          <mxGeometry x="263.6619718309859" width="230" height="230" as="geometry" />
+        </mxCell>
+        <mxCell id="n6TsHSlyv4_bZTNJ95n--8" value="" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="n6TsHSlyv4_bZTNJ95n--6">
+          <mxGeometry width="230" height="230" as="geometry" />
+        </mxCell>
+        <mxCell id="n6TsHSlyv4_bZTNJ95n--9" value="Publish&lt;br&gt;Course" style="whiteSpace=wrap;html=1;aspect=fixed;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="n6TsHSlyv4_bZTNJ95n--6">
+          <mxGeometry x="210" y="70" width="76.94" height="76.94" as="geometry" />
+        </mxCell>
+        <mxCell id="n6TsHSlyv4_bZTNJ95n--10" value="Learning&lt;br&gt;Session" style="whiteSpace=wrap;html=1;aspect=fixed;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="n6TsHSlyv4_bZTNJ95n--6">
+          <mxGeometry x="470" y="70" width="76.94" height="76.94" as="geometry" />
+        </mxCell>
+        <mxCell id="n6TsHSlyv4_bZTNJ95n--4" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="80" y="350" width="546.94" height="230" as="geometry" />
+        </mxCell>
+        <mxCell id="n6TsHSlyv4_bZTNJ95n--1" value="index card system" style="whiteSpace=wrap;html=1;aspect=fixed;align=center;verticalAlign=top;" vertex="1" parent="n6TsHSlyv4_bZTNJ95n--4">
+          <mxGeometry x="263.6619718309859" width="230" height="230" as="geometry" />
+        </mxCell>
+        <mxCell id="n6TsHSlyv4_bZTNJ95n--3" value="course designer" style="whiteSpace=wrap;html=1;aspect=fixed;verticalAlign=top;" vertex="1" parent="n6TsHSlyv4_bZTNJ95n--4">
+          <mxGeometry width="230" height="230" as="geometry" />
+        </mxCell>
+        <mxCell id="n6TsHSlyv4_bZTNJ95n--2" value="Publish&lt;br&gt;Course" style="whiteSpace=wrap;html=1;aspect=fixed;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="n6TsHSlyv4_bZTNJ95n--4">
+          <mxGeometry x="210" y="70" width="76.94" height="76.94" as="geometry" />
+        </mxCell>
+        <mxCell id="n6TsHSlyv4_bZTNJ95n--5" value="Learning&lt;br&gt;Session" style="whiteSpace=wrap;html=1;aspect=fixed;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="n6TsHSlyv4_bZTNJ95n--4">
+          <mxGeometry x="470" y="70" width="76.94" height="76.94" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
